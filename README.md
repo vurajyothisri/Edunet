@@ -1,0 +1,2 @@
+# Edunet
+For internship purpose
